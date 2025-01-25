@@ -1,2 +1,3 @@
 # Python
-Here you will see the my python programming process 
+Here you will see my python programming progress
+
